@@ -7,6 +7,8 @@ While traditional Machine Learning approaches often rely on human-guided feature
 
 By simulating the biological exploration and exploitation behaviors of pumas, the optimizer autonomously navigates the complex search space of both features and model hyperparameters to find the optimal configuration for a Support Vector Machine (SVM).
 
+Inspiration project: https://www.kaggle.com/code/pierrelouisdanieau/breast-cancer-prediciton-ml-dl/notebook
+
 ## Key Concepts
 
 ### The Puma Optimizer (PO)
